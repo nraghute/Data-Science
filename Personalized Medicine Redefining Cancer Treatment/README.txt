@@ -1,3 +1,5 @@
+### Private Score = 2.69260
+### Public Score = 1.05117
 Personalized Medicine Redefining Cancer Treatment(Kaggle competition)
 
 Problem Statement: To classify clinically actionable genetic mutations.
